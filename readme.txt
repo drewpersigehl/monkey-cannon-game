@@ -1,3 +1,8 @@
+To Run the Game:
+	1. Clone the repo or download the files
+	2. Run make.bat
+	3. Run game.exe
+
 How to Play:
 	The goal of the game is to fire cannonballs and hit the targets.
 	A point is scored for every hit target. Each time you miss the 
